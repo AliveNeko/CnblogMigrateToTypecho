@@ -1,0 +1,8 @@
+{
+  "SqliteFilePath" : "cnblogs.db",
+  "MysqlHost" : "127.0.0.1",
+  "MysqlPort" : 3306,
+  "MysqlUser" : "root",
+  "MysqlPassword" : "root",
+  "MysqlDatabase" : "typecho"
+}
